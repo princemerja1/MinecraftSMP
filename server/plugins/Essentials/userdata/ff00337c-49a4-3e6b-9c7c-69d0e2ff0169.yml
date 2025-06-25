@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.3.90.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750834200660
+  login: 1750833714911
+money: '0'
+last-account-name: princemerja
+logoutlocation:
+  world: 1ee01c9e-1269-4bb8-99cd-3941e7ce5d29
+  world-name: world
+  x: 38.74603840603776
+  y: 65.9375
+  z: 60.68408198898555
+  yaw: 9.0015869140625
+  pitch: 18.750072479248047
