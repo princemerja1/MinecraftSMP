@@ -81,3 +81,11 @@ nohup: ignoring input
 2025-06-25T06:31:41Z ERR Connection terminated error="failed to dial to edge with quic: timeout: no recent network activity" connIndex=3
 2025-06-25T06:31:44Z ERR Connection terminated error="failed to dial to edge with quic: timeout: no recent network activity" connIndex=2
 2025-06-25T06:31:52Z ERR Connection terminated error="failed to dial to edge with quic: timeout: no recent network activity" connIndex=0
+2025-06-25T06:33:52Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(25497) CurveP256] connIndex=0 event=0 ip=198.41.200.63
+2025-06-25T06:33:52Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(25497) CurveP256] connIndex=2 event=0 ip=198.41.192.7
+2025-06-25T06:33:52Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(25497) CurveP256] connIndex=1 event=0 ip=198.41.192.167
+2025-06-25T06:33:52Z INF Tunnel connection curve preferences: [X25519MLKEM768 CurveID(25497) CurveP256] connIndex=3 event=0 ip=198.41.200.233
+2025-06-25T06:33:52Z INF Registered tunnel connection connIndex=0 connection=424c0dd7-2efc-4bfb-942a-0a36dd4b5ffb event=0 ip=198.41.200.63 location=del03 protocol=quic
+2025-06-25T06:33:52Z INF Registered tunnel connection connIndex=1 connection=885b184d-2336-424c-ad75-f973f927b48b event=0 ip=198.41.192.167 location=sin18 protocol=quic
+2025-06-25T06:33:52Z INF Registered tunnel connection connIndex=2 connection=d24f8b18-3f90-4f45-9409-c94fc57a90a6 event=0 ip=198.41.192.7 location=sin17 protocol=quic
+2025-06-25T06:33:53Z INF Registered tunnel connection connIndex=3 connection=c3190eda-627a-495d-9267-80d508225720 event=0 ip=198.41.200.233 location=del05 protocol=quic
